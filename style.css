@@ -1,0 +1,41 @@
+body{
+    background-color:cornflowerblue ;
+}
+
+.box{
+    border: 0px solid;
+    background-color: brown;
+    text-align: center;
+    margin-left: 520px;
+    margin-right: 520px;
+    color: white;
+    height: 50px;
+    font-size: 30px;
+    align-items: center;
+
+}
+
+.red{
+    border: 3px solid red;
+    margin-top: 40px;
+   
+   
+}
+
+
+.border1{
+    border: 15px solid;
+    padding: 30px;
+    background-color: aqua;
+   
+}
+
+.border2{
+    border: 15px solid;
+    padding: 30px;
+    background-color: aqua;
+}
+
+p{
+    font-size: 22px;
+}
